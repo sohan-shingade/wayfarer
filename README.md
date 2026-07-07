@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/python-3.11%2B-3776ab.svg?logo=python&logoColor=white" alt="Python 3.11+" /></a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-22c55e.svg" alt="MIT license" /></a>
-  <a href="#-billing-read-this-before-your-first-run">
-    <img src="https://img.shields.io/badge/agents-run%20on%20your%20Claude%20subscription-d97706.svg" alt="Runs on your Claude subscription" /></a>
+  <a href="#-what-it-costs-nothing-extra">
+    <img src="https://img.shields.io/badge/cost-%240%20extra%20%C2%B7%20uses%20your%20Claude%20plan-d97706.svg" alt="No extra cost — uses your existing Claude plan" /></a>
   <a href="#contributing">
     <img src="https://img.shields.io/badge/PRs-welcome-8b5cf6.svg" alt="PRs welcome" /></a>
 </p>
@@ -28,7 +28,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="#-providers">Providers</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="#-billing-read-this-before-your-first-run">Billing</a>
+  <a href="#-what-it-costs-nothing-extra">Costs</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="#contributing">Contributing</a>
 </div>
@@ -162,18 +162,25 @@ Hotel preference is `trvl` → SerpApi → flat estimate; force one with `WAYFAR
 > [!NOTE]
 > Provider responses cache to a local SQLite DB (`~/.cache/wayfarer/providers.db`) with a TTL, so identical requests reproduce the same flight and hotel data. Force fresh data with `WAYFARER_CACHE=off`. The optional `trvl` binary is PolyForm Noncommercial — fine for personal, plan-only use.
 
-## 💳 Billing: read this before your first run
+## 💰 What it costs: nothing extra
 
-The agents shell out to `claude -p`, which runs on your **Claude Pro/Max subscription** — not per-token API billing. Two guards keep it that way:
+Wayfarer is free, and it's built to run at **zero marginal cost**:
 
-- The runtime **strips `ANTHROPIC_API_KEY`, `ANTHROPIC_AUTH_TOKEN`, and `ANTHROPIC_BASE_URL`** from every agent subprocess. If a key were set, the CLI would silently bill your API account instead.
-- There have been reports of `claude -p` billing as API usage even with no key set, so the runtime also reads `total_cost_usd` from every result and **aborts the run if it is positive** (`fail_on_api_billing=True`).
+- **Flight and hotel data is free.** The default providers (`fli`, `trvl`) need no API key and charge nothing. SerpApi is optional, and its free tier covers normal use.
+- **The AI agents use the Claude subscription you already have.** They run through Claude Code (`claude -p`) on your existing Pro/Max login — the same flat plan you use for chatting or coding. No per-token API charges, no separate account, no credit card.
 
-> [!WARNING]
-> Before real use, run `scripts/preflight.sh` and check `/status` inside an interactive `claude` session — the Auth token field should read `CLAUDE_CODE_OAUTH_TOKEN`. Watch your billing dashboards on the first runs.
+You are never billed *by wayfarer* for anything. The only requirement is a Claude Pro/Max subscription for the agent steps (if you don't have one, you can implement the `AgentRuntime` interface to point the agents at any API instead).
+
+Two built-in guards make sure agent calls can't accidentally land on metered API billing:
+
+- The runtime **strips `ANTHROPIC_API_KEY`, `ANTHROPIC_AUTH_TOKEN`, and `ANTHROPIC_BASE_URL`** from every agent subprocess, so a key sitting in your shell can't silently switch you from subscription to pay-per-token.
+- The runtime reads `total_cost_usd` from every agent result and **aborts the run if it is ever positive** (`fail_on_api_billing=True`) — a belt-and-suspenders check against CLI billing quirks.
+
+> [!TIP]
+> First run? `./scripts/preflight.sh` confirms you're on subscription auth (in an interactive `claude` session, `/status` should show `CLAUDE_CODE_OAUTH_TOKEN`).
 
 > [!IMPORTANT]
-> Running `claude -p` on your own subscription for your own local use is fine. Subscription OAuth may **not** power a product served to other people — if you productize this, swap `ClaudeCLIRuntime` for an API-key runtime (the `AgentRuntime` interface exists for exactly that).
+> Running `claude -p` on your own subscription for your own local use is fine under the ToS. Subscription OAuth may **not** power a product served to other people — if you productize this, swap `ClaudeCLIRuntime` for an API-key runtime.
 
 ## 🔥 Deal detection
 
