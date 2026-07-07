@@ -1,0 +1,3060 @@
+{
+  "success": true,
+  "count": 80,
+  "total_available": 2283,
+  "hotels": [
+    {
+      "name": "Alfar Guesthouse- Double room 11",
+      "hotel_id": "17248724",
+      "rating": 0,
+      "review_count": 0,
+      "stars": 3,
+      "price": 60.06,
+      "currency": "USD",
+      "address": "Hafnarfjordur, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/agoda-homes/17248724/3fa382177b3fee8cfec78a01a92c486f.jpg?va=1&ca=13&ce=1",
+      "lat": 64.066933,
+      "lon": -21.942961,
+      "distance_km": 8.78980692783826,
+      "property_type": "singleroom",
+      "booking_url": "https://www.agoda.com/alfar-guesthouse-double-room-11/hotel/hafnarfjordur-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 60.06,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/alfar-guesthouse-double-room-11/hotel/hafnarfjordur-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "KEX Hostel and Hotel Reykjavik",
+      "hotel_id": "0x48d674ce84f58251:0x58b25b89d1a390f7",
+      "rating": 8.6,
+      "review_count": 2654,
+      "stars": 2,
+      "price": 78,
+      "currency": "USD",
+      "address": "",
+      "description": "Laid-back dorms & private rooms in a funky hostel with a gastropub, a patio & communal kitchens.",
+      "lat": 64.14542399999999,
+      "lon": -21.919484,
+      "distance_km": 1.105023247072575,
+      "property_type": "hostel",
+      "amenities": [
+        "accessible",
+        "kitchen",
+        "airport_shuttle",
+        "pool",
+        "free_parking",
+        "pet_friendly",
+        "air_conditioning",
+        "breakfast"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 78,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "CityHub Reykjavik",
+      "hotel_id": "0x48d6755fb0c858e9:0x44ada088622840f1",
+      "rating": 9.6,
+      "review_count": 274,
+      "stars": 2,
+      "price": 89,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.1460424,
+      "lon": -21.9276384,
+      "distance_km": 0.7079015773019578,
+      "property_type": "unknown",
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "pool",
+        "free_parking",
+        "breakfast"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-cityhub-reykjavik-reykjav\u00edk?search=100-38769924;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 89,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 105,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 139,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "trivago",
+          "price": 196,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-cityhub-reykjavik-reykjav\u00edk?search=100-38769924;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 107,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Reykjavik Peace Center",
+      "hotel_id": "0x48d6734132679c4f:0x62775047e3e38728",
+      "rating": 7,
+      "review_count": 90,
+      "stars": 3,
+      "price": 89,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/267215/0/8e245ffd19450a035e6df30e4e0c8608.jpeg?va=1&ce=0",
+      "lat": 64.1010417,
+      "lon": -21.849118999999998,
+      "distance_km": 6.7372715549479185,
+      "property_type": "unknown",
+      "amenities": [
+        "kitchen",
+        "ev_charger",
+        "pet_friendly",
+        "accessible"
+      ],
+      "booking_url": "https://www.agoda.com/reykjavik-peace-center/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 89,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "agoda",
+          "price": 119.05,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/reykjavik-peace-center/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 30,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Old Town Reykjavik",
+      "hotel_id": "0x48d60b06e8fac3e3:0x5d0802228e10e218",
+      "rating": 6.6,
+      "review_count": 122,
+      "stars": 3,
+      "price": 90,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.1470915,
+      "lon": -21.942410799999998,
+      "distance_km": 0.12377019779291179,
+      "property_type": "unknown",
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-old-town-reykjavik-reykjav\u00edk?search=100-31203884;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 90,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 118,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "trivago",
+          "price": 290,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-old-town-reykjavik-reykjav\u00edk?search=100-31203884;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 200,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Aurora Guesthouse",
+      "hotel_id": "0x48d60b33526d4b5f:0x8c4982b36a104952",
+      "rating": 7.8,
+      "review_count": 579,
+      "stars": 2,
+      "price": 96,
+      "currency": "USD",
+      "address": "",
+      "description": "Simple accommodations in a low-key guesthouse featuring a breakfast buffet & Wi-Fi.",
+      "lat": 64.1420859,
+      "lon": -21.9307548,
+      "distance_km": 0.7054142471324774,
+      "property_type": "unknown",
+      "amenities": [
+        "kitchen",
+        "airport_shuttle",
+        "free_parking",
+        "air_conditioning",
+        "accessible",
+        "breakfast",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 96,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "H\u00f3tel Hei\u00f0m\u00f6rk",
+      "hotel_id": "",
+      "rating": 8.2,
+      "review_count": 234,
+      "stars": 3,
+      "price": 111,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.09521,
+      "lon": -21.804315,
+      "distance_km": 8.75670527848853,
+      "property_type": "unknown",
+      "amenities": [
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 111,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "ALVA Hotel Brautarholt",
+      "hotel_id": "0x48d6754cc3a3415f:0x98f8038b3dbcb073",
+      "rating": 7.8,
+      "review_count": 64,
+      "stars": 3,
+      "price": 112,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.141346,
+      "lon": -21.9040061,
+      "distance_km": 1.9242555163378268,
+      "property_type": "hotel",
+      "amenities": [
+        "accessible",
+        "kitchen",
+        "airport_shuttle",
+        "air_conditioning"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/alva-hotel-brautarholt-reykjav\u00edk?search=100-102354;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 112,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "trivago",
+          "price": 379,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/alva-hotel-brautarholt-reykjav\u00edk?search=100-102354;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 267,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "L\u00e6kur Guesthouse",
+      "hotel_id": "",
+      "rating": 7.5125638,
+      "review_count": 234,
+      "stars": 0,
+      "price": 139,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14869689941406,
+      "lon": -21.884979248046875,
+      "distance_km": 2.7926463117900826,
+      "property_type": "unknown",
+      "booking_url": "https://www.trivago.com/en-US/lm/bed-breakfast-l\u00e6kur-guesthouse-reykjav\u00edk?search=100-7061932;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 139,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "trivago",
+          "price": 439,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/bed-breakfast-l\u00e6kur-guesthouse-reykjav\u00edk?search=100-7061932;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 300,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Center Hotels Arnarhvoll",
+      "hotel_id": "0x48d674d25f5c9071:0x73f4eebabc670cc8",
+      "rating": 8.4,
+      "review_count": 1161,
+      "stars": 4,
+      "price": 151,
+      "currency": "USD",
+      "address": "",
+      "description": "Laid-back hotel featuring a sauna & a rooftop restaurant/bar, plus free Wi-Fi & breakfast.",
+      "lat": 64.14907,
+      "lon": -21.930830099999998,
+      "distance_km": 0.6510527569874078,
+      "property_type": "hotel",
+      "amenities": [
+        "kitchen",
+        "spa",
+        "pool",
+        "paid_parking",
+        "laundry",
+        "breakfast",
+        "accessible",
+        "bar",
+        "free_wifi",
+        "restaurant"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 151,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Center Hotels Plaza",
+      "hotel_id": "0x48d60b2d04777f71:0xa03a4c2fdd6a21ae",
+      "rating": 8.4,
+      "review_count": 1959,
+      "stars": 3,
+      "price": 151,
+      "currency": "USD",
+      "address": "",
+      "description": "Relaxed, modern hotel offering streamlined rooms, plus a breakfast buffet & a lobby bar.",
+      "lat": 64.1483111,
+      "lon": -21.9417062,
+      "distance_km": 0.2603690372797563,
+      "property_type": "hotel",
+      "amenities": [
+        "kitchen",
+        "pool",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "breakfast",
+        "fitness_center",
+        "accessible",
+        "bar"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 151,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Midtown Reykjavik by Heimaleiga",
+      "hotel_id": "0x48d675970f23756b:0x2829124e6c4c9844",
+      "rating": 6.2,
+      "review_count": 126,
+      "stars": 3,
+      "price": 153,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.14545489999999,
+      "lon": -21.930563499999998,
+      "distance_km": 0.5690520524653517,
+      "property_type": "unknown",
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "free_parking"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 153,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "ODDSSON Midtown hotel",
+      "hotel_id": "0x48d60b2f31258063:0x2dc2829d2df3d9c7",
+      "rating": 8.6,
+      "review_count": 1115,
+      "stars": 3,
+      "price": 158,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.1310297,
+      "lon": -21.8751924,
+      "distance_km": 3.6521802226535125,
+      "property_type": "hotel",
+      "amenities": [
+        "kitchen",
+        "pool",
+        "free_parking",
+        "pet_friendly",
+        "breakfast",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 158,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "City center h\u00f3tel Reykjavik",
+      "hotel_id": "0x48d60bcf27984137:0xf666cd31402bbfca",
+      "rating": 8.8,
+      "review_count": 192,
+      "stars": 3,
+      "price": 158,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.147783,
+      "lon": -21.940503,
+      "distance_km": 0.21729293758831492,
+      "property_type": "unknown",
+      "amenities": [
+        "free_parking",
+        "airport_shuttle",
+        "air_conditioning",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 166,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 158,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 8,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Downtown Reykjav\u00edk Apartments",
+      "hotel_id": "0x48d674c96faa2e29:0x2c7641f7181d7cac",
+      "rating": 8.2,
+      "review_count": 567,
+      "stars": 3,
+      "price": 162,
+      "currency": "USD",
+      "address": "",
+      "description": "Low-key units, some with balconies or terraces, in an informal apartment hotel offering parking.",
+      "lat": 64.14111799999999,
+      "lon": -21.914534,
+      "distance_km": 1.4481613667718822,
+      "property_type": "apartment",
+      "amenities": [
+        "accessible",
+        "air_conditioning",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 162,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Midgardur by Center Hotels",
+      "hotel_id": "0x48d674c949d9c423:0x8f42cb4e0e53c73b",
+      "rating": 9.2,
+      "review_count": 1848,
+      "stars": 4,
+      "price": 168,
+      "currency": "USD",
+      "address": "",
+      "description": "Functional rooms with minibars in a modern hotel offering a restaurant & a sleek bar.",
+      "lat": 64.1426949,
+      "lon": -21.913425099999998,
+      "distance_km": 1.4441439624450885,
+      "property_type": "hotel",
+      "amenities": [
+        "kitchen",
+        "spa",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "breakfast",
+        "fitness_center",
+        "accessible",
+        "restaurant"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 168,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Stay Apartments Einholt",
+      "hotel_id": "9172324",
+      "rating": 8.221044,
+      "review_count": 6040,
+      "stars": 4,
+      "price": 170,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/9172324/0/0adcf4dec8fc601ddd4106838d1f3fe9.jpeg?va=1",
+      "lat": 64.14156341552734,
+      "lon": -21.912017822265625,
+      "distance_km": 1.5455620863688135,
+      "property_type": "apartment",
+      "booking_url": "https://www.agoda.com/stay-apartments-einholt/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 170,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "agoda",
+          "price": 384.21,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/stay-apartments-einholt/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 214,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Muli Hotel",
+      "hotel_id": "0x48d67530306ba1b3:0xd09a883a279e67d1",
+      "rating": 9,
+      "review_count": 655,
+      "stars": 3,
+      "price": 172,
+      "currency": "USD",
+      "address": "",
+      "description": "Streamlined rooms & suites with Wi-Fi in a down-to-earth hotel offering parking.",
+      "lat": 64.13914989999999,
+      "lon": -21.8862281,
+      "distance_km": 2.820392969145652,
+      "property_type": "hotel",
+      "amenities": [
+        "kitchen",
+        "ev_charger",
+        "free_parking",
+        "air_conditioning",
+        "breakfast",
+        "free_wifi"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 172,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "H\u00f3tel Fr\u00f3n",
+      "hotel_id": "0x48d674cd1191a159:0xf2d24cbdf834e162",
+      "rating": 8.2,
+      "review_count": 1468,
+      "stars": 3,
+      "price": 173,
+      "currency": "USD",
+      "address": "",
+      "description": "Casual hotel with simple rooms, suites & apartments, plus an informal restaurant with a bar.",
+      "lat": 64.1455766,
+      "lon": -21.929043399999998,
+      "distance_km": 0.6413242585238798,
+      "property_type": "apartment",
+      "amenities": [
+        "kitchen",
+        "airport_shuttle",
+        "pool",
+        "free_parking",
+        "breakfast",
+        "accessible",
+        "restaurant",
+        "bar"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 173,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Center Hotels Laugavegur",
+      "hotel_id": "0x48d674ceac568701:0xb689fc6462b9fec0",
+      "rating": 9,
+      "review_count": 732,
+      "stars": 4,
+      "price": 175,
+      "currency": "USD",
+      "address": "",
+      "description": "Streamlined rooms with city views in a contemporary hotel featuring a restaurant/bar & a cafe.",
+      "lat": 64.1433639,
+      "lon": -21.9166871,
+      "distance_km": 1.2726722616056367,
+      "property_type": "hotel",
+      "amenities": [
+        "kitchen",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "laundry",
+        "breakfast",
+        "accessible",
+        "restaurant",
+        "bar"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 175,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Baldursbr\u00e1 Guesthouse - Triple Room with Shared Bathroom and Hot Tub Access",
+      "hotel_id": "",
+      "rating": 10,
+      "review_count": 8,
+      "stars": 0,
+      "price": 180,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.14180755615234,
+      "lon": -21.93699073791504,
+      "distance_km": 0.5292200806497734,
+      "property_type": "unknown",
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 180,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Storm Hotel",
+      "hotel_id": "",
+      "rating": 9,
+      "review_count": 1213,
+      "stars": 3,
+      "price": 180,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.144645,
+      "lon": -21.910664,
+      "distance_km": 1.5381829691612574,
+      "property_type": "hotel",
+      "amenities": [
+        "accessible",
+        "airport_shuttle",
+        "pool",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 180,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Exeter Hotel",
+      "hotel_id": "0x48d60b2cf275da3f:0x69e465a5d2a656f1",
+      "rating": 9,
+      "review_count": 787,
+      "stars": 4,
+      "price": 182,
+      "currency": "USD",
+      "address": "",
+      "description": "Rooms & suites with an industrial vibe in a former storage building with a bakery, bar & restaurant.",
+      "lat": 64.15008019999999,
+      "lon": -21.9433883,
+      "distance_km": 0.4592175142730663,
+      "property_type": "hotel",
+      "amenities": [
+        "kitchen",
+        "spa",
+        "pool",
+        "free_parking",
+        "air_conditioning",
+        "laundry",
+        "breakfast",
+        "fitness_center",
+        "accessible",
+        "restaurant",
+        "bar"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 182,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 187,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 5,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Reykjav\u00edk Natura - Berjaya Iceland Hotels",
+      "hotel_id": "0x48d60b4bdae0972d:0x998262ca27f44407",
+      "rating": 8.2,
+      "review_count": 1558,
+      "stars": 4,
+      "price": 183,
+      "currency": "USD",
+      "address": "",
+      "description": "Modern quarters in an art-filled hotel with dining, a spa & a screening room, plus free Wi-Fi.",
+      "lat": 64.1308067,
+      "lon": -21.932756299999998,
+      "distance_km": 1.7488399844826823,
+      "property_type": "hotel",
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "spa",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "breakfast",
+        "fitness_center",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 183,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Eyja Guldsmeden Hotel",
+      "hotel_id": "0x48d674c88b52719d:0xa0d1c20c38094ee3",
+      "rating": 9.4,
+      "review_count": 646,
+      "stars": 4,
+      "price": 188,
+      "currency": "USD",
+      "address": "",
+      "description": "Warmly decorated rooms with 4-poster beds in a casual hotel offering a bar & free Wi-Fi.",
+      "lat": 64.14186889999999,
+      "lon": -21.9075192,
+      "distance_km": 1.7445585366491865,
+      "property_type": "hotel",
+      "amenities": [
+        "accessible",
+        "kitchen",
+        "free_wifi",
+        "spa",
+        "pool",
+        "free_parking",
+        "air_conditioning",
+        "laundry",
+        "bar"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 188,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 230,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 42,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Reykjavik Lights by Keahotels",
+      "hotel_id": "",
+      "rating": 9,
+      "review_count": 1297,
+      "stars": 3,
+      "price": 192,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.139346,
+      "lon": -21.881778999999998,
+      "distance_km": 3.0233360558705926,
+      "property_type": "hotel",
+      "amenities": [
+        "accessible",
+        "free_parking",
+        "pool",
+        "air_conditioning",
+        "kitchen"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-reykjavik-lights-reykjav\u00edk?search=100-2800004;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 192,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 225,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "trivago",
+          "price": 398,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-reykjavik-lights-reykjav\u00edk?search=100-2800004;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 206,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Vintage Hotel Apartments",
+      "hotel_id": "0x48d675c34c9ac2a7:0xb0d1ab346db09a6e",
+      "rating": 8.8,
+      "review_count": 118,
+      "stars": 4,
+      "price": 194,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.1451343,
+      "lon": -21.9258056,
+      "distance_km": 0.8022970680315232,
+      "property_type": "apartment",
+      "amenities": [
+        "kitchen",
+        "airport_shuttle",
+        "air_conditioning"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 194,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Skuggi Hotel by Keahotels",
+      "hotel_id": "",
+      "rating": 9,
+      "review_count": 1347,
+      "stars": 3,
+      "price": 198,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.14418599999999,
+      "lon": -21.917094,
+      "distance_km": 1.2354349756635683,
+      "property_type": "hotel",
+      "amenities": [
+        "accessible",
+        "free_parking",
+        "pool",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 198,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Alfred's Studios",
+      "hotel_id": "",
+      "rating": 8.8501654,
+      "review_count": 668,
+      "stars": 0,
+      "price": 201,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.14595031738281,
+      "lon": -21.924190521240234,
+      "distance_km": 0.8750637071433929,
+      "property_type": "unknown",
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 201,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Reykjavik Domes",
+      "hotel_id": "",
+      "rating": 8.65,
+      "review_count": 160,
+      "stars": 0,
+      "price": 230,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.14845275878906,
+      "lon": -21.807470321655273,
+      "distance_km": 6.540287511287132,
+      "property_type": "unknown",
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 230,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Fosshotel Reykjav\u00edk",
+      "hotel_id": "0x48d674cf53000027:0xb2d9784ba1f5bb95",
+      "rating": 9,
+      "review_count": 2351,
+      "stars": 4,
+      "price": 230,
+      "currency": "USD",
+      "address": "",
+      "description": "Bright rooms & suites in a contemporary property with a beer garden, a restaurant & free Wi-Fi.",
+      "lat": 64.14439209999999,
+      "lon": -21.9095837,
+      "distance_km": 1.5932110458666644,
+      "property_type": "hotel",
+      "amenities": [
+        "kitchen",
+        "room_service",
+        "spa",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "air_conditioning",
+        "laundry",
+        "breakfast",
+        "fitness_center",
+        "accessible",
+        "free_wifi",
+        "restaurant"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 230,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Reykjavik Domes",
+      "hotel_id": "0x48d6751c78ef52b3:0xd2c0383959b04a04",
+      "rating": 8.2,
+      "review_count": 81,
+      "stars": 0,
+      "price": 230,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.1466465,
+      "lon": -21.809341399999997,
+      "distance_km": 6.444420190257356,
+      "property_type": "unknown",
+      "amenities": [
+        "kitchen",
+        "air_conditioning"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 230,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Island Apartments",
+      "hotel_id": "",
+      "rating": 9,
+      "review_count": 91,
+      "stars": 3,
+      "price": 232,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.145556,
+      "lon": -21.925556,
+      "distance_km": 0.8102302629100192,
+      "property_type": "apartment",
+      "amenities": [
+        "ev_charger",
+        "airport_shuttle",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 232,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Reykjavik Domes - King Suite Dome",
+      "hotel_id": "",
+      "rating": 9,
+      "review_count": 8,
+      "stars": 0,
+      "price": 237,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.14845275878906,
+      "lon": -21.807470321655273,
+      "distance_km": 6.540287511287132,
+      "property_type": "unknown",
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 237,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Radisson Blu 1919 Hotel, Reykjavik",
+      "hotel_id": "0x48d60b2d3b789f75:0x8fab8cd8fef3bc31",
+      "rating": 8.4,
+      "review_count": 571,
+      "stars": 4,
+      "price": 242,
+      "currency": "USD",
+      "address": "",
+      "description": "Refined 1910s property featuring free Wi-Fi, plus a restaurant & a cocktail bar.",
+      "lat": 64.148262,
+      "lon": -21.938563,
+      "distance_km": 0.3099375395899223,
+      "property_type": "hotel",
+      "amenities": [
+        "ev_charger",
+        "accessible",
+        "free_parking",
+        "pool",
+        "paid_parking",
+        "spa",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 290,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 242,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 48,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Reykjavik Central Apartments",
+      "hotel_id": "",
+      "rating": 9.2,
+      "review_count": 29,
+      "stars": 0,
+      "price": 246,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.149357,
+      "lon": -21.944264999999998,
+      "distance_km": 0.3880626799571274,
+      "property_type": "apartment",
+      "amenities": [
+        "airport_shuttle",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 246,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Candlewood Suites Reykjavik by IHG",
+      "hotel_id": "",
+      "rating": 9.8,
+      "review_count": 35,
+      "stars": 3,
+      "price": 248,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.141504,
+      "lon": -21.914165999999998,
+      "distance_km": 1.4494262818811383,
+      "property_type": "unknown",
+      "amenities": [
+        "kitchen"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/serviced-apartment-candlewood-suites-reykjavik-by-ihg-reykjav\u00edk?search=100-47076568;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 255,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "google_hotels",
+          "price": 248,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "trivago",
+          "price": 495,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/serviced-apartment-candlewood-suites-reykjavik-by-ihg-reykjav\u00edk?search=100-47076568;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 247,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "M\u00e1ni Apartments by Heimaleiga - Two-Bedroom Apartment",
+      "hotel_id": "",
+      "rating": 10,
+      "review_count": 16,
+      "stars": 0,
+      "price": 249,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.14581298828125,
+      "lon": -21.93008041381836,
+      "distance_km": 0.5897543025586645,
+      "property_type": "apartment",
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 249,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Arctic Comfort Hotel",
+      "hotel_id": "",
+      "rating": 3.7,
+      "review_count": 600,
+      "stars": 3,
+      "price": 256,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.13469696044922,
+      "lon": -21.87774085998535,
+      "distance_km": 3.3702980177945836,
+      "property_type": "hotel",
+      "booking_url": "https://www.trivago.com/en-US/lm/arctic-comfort-hotel-reykjav\u00edk?search=100-102360;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 256,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/arctic-comfort-hotel-reykjav\u00edk?search=100-102360;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Hotel Reykjav\u00edk Grand",
+      "hotel_id": "6903",
+      "rating": 8.6,
+      "review_count": 2189,
+      "stars": 4,
+      "price": 263,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/218331084.jpg?k=020db4ce7db3e951aeac413bc137e5cc186918ee02a290c6df5eae9edccf0197&o=",
+      "lat": 64.14262599999999,
+      "lon": -21.891396999999998,
+      "distance_km": 2.4934244697269015,
+      "property_type": "hotel",
+      "amenities": [
+        "ev_charger",
+        "airport_shuttle",
+        "spa",
+        "kitchen"
+      ],
+      "booking_url": "https://www.agoda.com/grand-hotel-reykjavik/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 263,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Hallgrims Guesthouse",
+      "hotel_id": "",
+      "rating": 3.45,
+      "review_count": 149,
+      "stars": 2,
+      "price": 273,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.13764953613281,
+      "lon": -21.92193031311035,
+      "distance_km": 1.3520656277609484,
+      "property_type": "unknown",
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-hallgrims-guesthouse-reykjav\u00edk?search=100-10661622;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 273,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-hallgrims-guesthouse-reykjav\u00edk?search=100-10661622;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Reykjavik Residence Apartment Hotel",
+      "hotel_id": "",
+      "rating": 9.4,
+      "review_count": 576,
+      "stars": 4,
+      "price": 277,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.14546899999999,
+      "lon": -21.926845999999998,
+      "distance_km": 0.7484680609156282,
+      "property_type": "apartment",
+      "amenities": [
+        "airport_shuttle",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 277,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Reykjavik Central Guesthouse",
+      "hotel_id": "85348734",
+      "rating": 5.6,
+      "review_count": 6,
+      "stars": 0,
+      "price": 291.43,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/85348734/0/e16173bae6c716c89652c72704fa55b5.jpg?va=1&ce=3",
+      "lat": 64.13758850097656,
+      "lon": -21.922109603881836,
+      "distance_km": 1.350427398184934,
+      "property_type": "hotel",
+      "booking_url": "https://www.agoda.com/reykjavik-central-guesthouse/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 291.43,
+          "max_price": 347.94,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/reykjavik-central-guesthouse/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Black Pearl Luxury Apartments",
+      "hotel_id": "",
+      "rating": 9.8,
+      "review_count": 2163,
+      "stars": 0,
+      "price": 295,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.1496810913086,
+      "lon": -21.94243049621582,
+      "distance_km": 0.4115386694582614,
+      "property_type": "apartment",
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 295,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Central Apartments",
+      "hotel_id": "0x48d60b2d100b132d:0xf172c3a59f76ec1e",
+      "rating": 9.2,
+      "review_count": 5,
+      "stars": 3,
+      "price": 300,
+      "currency": "USD",
+      "address": "",
+      "description": "Contemporary apartments offering free Wi-Fi, flat-screen TVs & space for up to 8 guests.",
+      "lat": 64.14807189999999,
+      "lon": -21.940686499999998,
+      "distance_km": 0.2443461138427697,
+      "property_type": "apartment",
+      "amenities": [
+        "free_wifi",
+        "spa"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 300,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Odinn Reykjavik Skolavordustigur Apartments",
+      "hotel_id": "0x48d675c27fd7d0bf:0xe929965b2482d688",
+      "rating": 8,
+      "review_count": 24,
+      "stars": 4,
+      "price": 300,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.1462483,
+      "lon": -21.9332158,
+      "distance_km": 0.4384286651054048,
+      "property_type": "apartment",
+      "amenities": [
+        "kitchen",
+        "ev_charger"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 300,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "\u00d3m Apartments",
+      "hotel_id": "0x48d6749feb988a89:0x70ce77fd8349d1f8",
+      "rating": 9.6,
+      "review_count": 20,
+      "stars": 4,
+      "price": 300,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.1229953,
+      "lon": -21.856345599999997,
+      "distance_km": 4.888036084112006,
+      "property_type": "apartment",
+      "amenities": [
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 300,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Three Sisters Studio Apartments",
+      "hotel_id": "0x48d60b2c3f7ca3a7:0xe2c0061e8f521fe6",
+      "rating": 8.6,
+      "review_count": 44,
+      "stars": 3,
+      "price": 300,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.149729,
+      "lon": -21.946272099999998,
+      "distance_km": 0.46040376812210526,
+      "property_type": "apartment",
+      "amenities": [
+        "kitchen",
+        "airport_shuttle",
+        "pet_friendly",
+        "accessible"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 300,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Stay Apartments Bolholt",
+      "hotel_id": "",
+      "rating": 4.2,
+      "review_count": 3736,
+      "stars": 0,
+      "price": 303,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.13965,
+      "lon": -21.89547,
+      "distance_km": 2.3747134597194184,
+      "property_type": "apartment",
+      "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-stay-apartments-bolholt-reykjav\u00edk?search=100-344966;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 303,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-stay-apartments-bolholt-reykjav\u00edk?search=100-344966;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Hilton Reykjavik Nordica",
+      "hotel_id": "0x48d674b8cad6d071:0x9190a662ce80e764",
+      "rating": 8.8,
+      "review_count": 2271,
+      "stars": 4,
+      "price": 305,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "description": "Understated rooms & suites, plus a spa, an exercise room & a stylish Nordic restaurant.",
+      "lat": 64.139832,
+      "lon": -21.888804,
+      "distance_km": 2.679920397427845,
+      "property_type": "unknown",
+      "amenities": [
+        "kitchen",
+        "spa",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "laundry",
+        "breakfast",
+        "fitness_center",
+        "accessible",
+        "restaurant"
+      ],
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-hilton-reykjavik-nordica-reykjav\u00edk?search=100-104095;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 305,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "trivago",
+          "price": 571,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-hilton-reykjavik-nordica-reykjav\u00edk?search=100-104095;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 266,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Iceland Comfort Apartments",
+      "hotel_id": "8947725",
+      "rating": 7.8,
+      "review_count": 82,
+      "stars": 4,
+      "price": 325.96,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/659763897.jpg?k=9c651313caf4e3bf0716bd4c64c7e72b0ce900ffe22cc8ea366d7fe1bc6503f1&o=",
+      "lat": 64.11257934570312,
+      "lon": -21.904010772705078,
+      "distance_km": 4.15142760347348,
+      "property_type": "nonhotel",
+      "booking_url": "https://www.agoda.com/iceland-comfort-apartments/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 325.96,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/iceland-comfort-apartments/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Sif Apartments by Heimaleiga - Premier Apartment, 2 Bedrooms, Balcony",
+      "hotel_id": "",
+      "rating": 10,
+      "review_count": 8,
+      "stars": 0,
+      "price": 328,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.14392852783203,
+      "lon": -21.90814971923828,
+      "distance_km": 1.6686151613005593,
+      "property_type": "apartment",
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 328,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Old Town Reykjavik",
+      "hotel_id": "85241110",
+      "rating": 7.2,
+      "review_count": 15,
+      "stars": 3,
+      "price": 328.39,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/777722900.jpg?k=5f16b9ef547e2c983f4dff9d9da9e5cfc718cf556eb1ea8d92075b02cb4054c6&o=",
+      "lat": 64.14709,
+      "lon": -21.941954,
+      "distance_km": 0.12407471963220296,
+      "property_type": "hotel",
+      "booking_url": "https://www.agoda.com/kastali-guesthouse/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 328.39,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/kastali-guesthouse/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Frost Apartments by Heimaleiga",
+      "hotel_id": "",
+      "rating": 4.45,
+      "review_count": 1599,
+      "stars": 0,
+      "price": 346,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14091,
+      "lon": -21.90424,
+      "distance_km": 1.9269683558330457,
+      "property_type": "apartment",
+      "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-frost-apartments-by-heimaleiga-reykjav\u00edk?search=100-38821144;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 346,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-frost-apartments-by-heimaleiga-reykjav\u00edk?search=100-38821144;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "B47",
+      "hotel_id": "6751133",
+      "rating": 8.5,
+      "review_count": 663,
+      "stars": 2,
+      "price": 352.91,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/6751133/0/80983077dcc3bc210c3284bf42a7b756.jpg?va=1&ce=2",
+      "lat": 64.14094543457031,
+      "lon": -21.9219913482666,
+      "distance_km": 1.1302296396733609,
+      "property_type": "hotel",
+      "booking_url": "https://www.agoda.com/b47/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 352.91,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/b47/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "The Swan House by Heimaleiga",
+      "hotel_id": "",
+      "rating": 4.45,
+      "review_count": 4033,
+      "stars": 3,
+      "price": 381,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.1465835571289,
+      "lon": -21.926240921020508,
+      "distance_km": 0.7785131008923363,
+      "property_type": "unknown",
+      "booking_url": "https://www.trivago.com/en-US/lm/serviced-apartment-the-swan-house-by-heimaleiga-reykjav\u00edk?search=100-6596362;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 381,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/serviced-apartment-the-swan-house-by-heimaleiga-reykjav\u00edk?search=100-6596362;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Backyard Apartments by Heimaleiga",
+      "hotel_id": "",
+      "rating": 4.2,
+      "review_count": 706,
+      "stars": 4,
+      "price": 394,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14437103271484,
+      "lon": -21.923030853271484,
+      "distance_km": 0.948365524994086,
+      "property_type": "apartment",
+      "booking_url": "https://www.trivago.com/en-US/lm/serviced-apartment-backyard-apartments-by-heimaleiga-reykjav\u00edk?search=100-17234456;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 394,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/serviced-apartment-backyard-apartments-by-heimaleiga-reykjav\u00edk?search=100-17234456;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Stay Apartments Bolholt",
+      "hotel_id": "13833371",
+      "rating": 8.4,
+      "review_count": 303,
+      "stars": 4,
+      "price": 396.08,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/13833371/0/e7fa649fe29fc58d9624b1f067e37d26.jpeg?va=1",
+      "lat": 64.13997650146484,
+      "lon": -21.896320343017578,
+      "distance_km": 2.324662686936609,
+      "property_type": "nonhotel",
+      "booking_url": "https://www.agoda.com/stay-apartments-bolholt/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 396.08,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/stay-apartments-bolholt/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Large Deluxe Studio at Hlemmur",
+      "hotel_id": "",
+      "rating": 4.8,
+      "review_count": 9,
+      "stars": 0,
+      "price": 418,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14292,
+      "lon": -21.91507,
+      "distance_km": 1.3606414966937035,
+      "property_type": "unknown",
+      "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-large-deluxe-studio-at-hlemmur-reykjav\u00edk?search=100-49544990;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 418,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-large-deluxe-studio-at-hlemmur-reykjav\u00edk?search=100-49544990;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Iceland Parliament Hotel, Curio Collection by Hilton",
+      "hotel_id": "0x48d60b2d0d6eec95:0xeb388f4a7f52d3f8",
+      "rating": 9.4,
+      "review_count": 374,
+      "stars": 4,
+      "price": 426,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "description": "Fashionable hotel offering trendy rooms & suites, some with city views, plus a bar, a spa & a gym.",
+      "image_url": "https://pix8.agoda.net/hotelImages/36180949/0/372320fec670601f5636f87717be60c1.jpeg?va=1&ce=0",
+      "lat": 64.1472759,
+      "lon": -21.940645099999998,
+      "distance_km": 0.16336457553642553,
+      "property_type": "hotel",
+      "amenities": [
+        "kitchen",
+        "free_wifi",
+        "spa",
+        "bar",
+        "pool",
+        "free_parking",
+        "paid_parking",
+        "laundry",
+        "breakfast",
+        "fitness_center"
+      ],
+      "booking_url": "https://www.agoda.com/iceland-parliament-hotel-curio-collection-by-hilton/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 426,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        },
+        {
+          "provider": "agoda",
+          "price": 1138.97,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/iceland-parliament-hotel-curio-collection-by-hilton/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "savings": 713,
+      "cheapest_source": "google_hotels",
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Saga Studio with Balcony for 2 guests in Downtown",
+      "hotel_id": "",
+      "rating": 4.7,
+      "review_count": 129,
+      "stars": 0,
+      "price": 435,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14242,
+      "lon": -21.92066,
+      "distance_km": 1.1187358938081775,
+      "property_type": "unknown",
+      "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-saga-studio-with-balcony-for-2-guests-in-downtown-reykjav\u00edk?search=100-46442744;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 435,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-saga-studio-with-balcony-for-2-guests-in-downtown-reykjav\u00edk?search=100-46442744;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Alva Hotel Brautarholt",
+      "hotel_id": "9117071",
+      "rating": 7.7,
+      "review_count": 376,
+      "stars": 3,
+      "price": 442.29,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/9117071/0/7b24e46957acf9648c89f274f6f5a31f.jpg?va=1&ce=2",
+      "lat": 64.14138031,
+      "lon": -21.90361977,
+      "distance_km": 1.941302197511892,
+      "property_type": "hotel",
+      "booking_url": "https://www.agoda.com/22-hill-hotel/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 442.29,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/22-hill-hotel/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Canopy by Hilton Reykjavik City Centre",
+      "hotel_id": "",
+      "rating": 9.2,
+      "review_count": 1168,
+      "stars": 4,
+      "price": 465,
+      "currency": "USD",
+      "address": "",
+      "lat": 64.146348,
+      "lon": -21.930668999999998,
+      "distance_km": 0.5623949076150269,
+      "property_type": "unknown",
+      "amenities": [
+        "accessible",
+        "free_parking",
+        "airport_shuttle",
+        "pool",
+        "spa",
+        "kitchen"
+      ],
+      "booking_url": "https://www.google.com/travel/hotels/Reykjavik%2C%20Iceland?q=Reykjavik%2C+Iceland+hotels&dates=2026-08-15,2026-08-22",
+      "sources": [
+        {
+          "provider": "google_hotels",
+          "price": 465,
+          "currency": "USD",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Hotel Reykjavik Saga",
+      "hotel_id": "",
+      "rating": 4.7,
+      "review_count": 2280,
+      "stars": 4,
+      "price": 484,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14598846435547,
+      "lon": -21.938720703125,
+      "distance_km": 0.1704921729628283,
+      "property_type": "hotel",
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-reykjavik-saga-reykjav\u00edk?search=100-28487058;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 484,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-reykjavik-saga-reykjav\u00edk?search=100-28487058;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Rey Apartments",
+      "hotel_id": "",
+      "rating": 4.5,
+      "review_count": 3707,
+      "stars": 3,
+      "price": 490,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14505767822266,
+      "lon": -21.929580688476562,
+      "distance_km": 0.6222270752465773,
+      "property_type": "apartment",
+      "booking_url": "https://www.trivago.com/en-US/lm/serviced-apartment-rey-apartments-reykjav\u00edk?search=100-2084956;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 490,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/serviced-apartment-rey-apartments-reykjav\u00edk?search=100-2084956;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Stay Apartments Einholt - One Bedroom Apartment",
+      "hotel_id": "",
+      "rating": 4.85,
+      "review_count": 127,
+      "stars": 0,
+      "price": 496,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14193,
+      "lon": -21.90671,
+      "distance_km": 1.7807247367176735,
+      "property_type": "apartment",
+      "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-stay-apartments-einholt-one-bedroom-apartment-reykjav\u00edk?search=100-38573734;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 496,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-stay-apartments-einholt-one-bedroom-apartment-reykjav\u00edk?search=100-38573734;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Hilton Reykjavik Nordica",
+      "hotel_id": "6572",
+      "rating": 8.1,
+      "review_count": 316,
+      "stars": 4,
+      "price": 518.82,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/6572/0/89776ad4529a6b60bb05ce2108391b02.jpg?va=1&ca=7&ce=1",
+      "lat": 64.13960266113281,
+      "lon": -21.888900756835938,
+      "distance_km": 2.6820246022070315,
+      "property_type": "hotel",
+      "booking_url": "https://www.agoda.com/hilton-reykjavik-nordica-hotel/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 518.82,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/hilton-reykjavik-nordica-hotel/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Candlewood Suites Reykjavik By IHG",
+      "hotel_id": "79568561",
+      "rating": 9,
+      "review_count": 5,
+      "stars": 2,
+      "price": 523,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/80193872/0/76214f8b4bbebe17c50c8dc782f5a568.jpeg?va=1&ce=3",
+      "lat": 64.14154052734375,
+      "lon": -21.914119720458984,
+      "distance_km": 1.450145417158694,
+      "property_type": "hotel",
+      "booking_url": "https://www.agoda.com/alva-apartments-and-rooms-rauoararstigur/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 523,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/alva-apartments-and-rooms-rauoararstigur/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Small Studio Apartment",
+      "hotel_id": "",
+      "rating": 4.8,
+      "review_count": 93,
+      "stars": 0,
+      "price": 550,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14385,
+      "lon": -21.93207,
+      "distance_km": 0.5469899796423814,
+      "property_type": "apartment",
+      "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-small-studio-apartment-reykjav\u00edk?search=100-42487594;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 550,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-small-studio-apartment-reykjav\u00edk?search=100-42487594;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "SIF Apartments Central Reykjavik - 1 Bedroom",
+      "hotel_id": "",
+      "rating": 4.75,
+      "review_count": 318,
+      "stars": 0,
+      "price": 552,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14369,
+      "lon": -21.90601,
+      "distance_km": 1.7750748380713157,
+      "property_type": "apartment",
+      "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-sif-apartments-central-reykjavik-1-bedroom-reykjav\u00edk?search=100-41320658;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 552,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-sif-apartments-central-reykjavik-1-bedroom-reykjav\u00edk?search=100-41320658;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Hotel Lotus",
+      "hotel_id": "",
+      "rating": 4.65,
+      "review_count": 2780,
+      "stars": 3,
+      "price": 556,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.13719940185547,
+      "lon": -21.891809463500977,
+      "distance_km": 2.6333308740198205,
+      "property_type": "hotel",
+      "booking_url": "https://www.trivago.com/en-US/lm/hotel-lotus-reykjav\u00edk?search=100-3799164;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 556,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/hotel-lotus-reykjav\u00edk?search=100-3799164;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Svala Downtown Penthouse One bedroom",
+      "hotel_id": "",
+      "rating": 3.75,
+      "review_count": 10,
+      "stars": 0,
+      "price": 575,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14405,
+      "lon": -21.92058,
+      "distance_km": 1.0718925954527387,
+      "property_type": "unknown",
+      "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-svala-downtown-penthouse-one-bedroom-reykjav\u00edk?search=100-34833744;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 575,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-svala-downtown-penthouse-one-bedroom-reykjav\u00edk?search=100-34833744;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Baldursbra 1BR Downtown Reykjavik - free parking",
+      "hotel_id": "",
+      "rating": 4.55,
+      "review_count": 18,
+      "stars": 0,
+      "price": 643,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14298,
+      "lon": -21.91809,
+      "distance_km": 1.2175539543218705,
+      "property_type": "unknown",
+      "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-baldursbra-1br-downtown-reykjavik-free-parking-reykjav\u00edk?search=100-49798514;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 643,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-baldursbra-1br-downtown-reykjavik-free-parking-reykjav\u00edk?search=100-49798514;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Modern 3BR Ocean View Apartment in Reykjavik",
+      "hotel_id": "",
+      "rating": 4.9,
+      "review_count": 153,
+      "stars": 0,
+      "price": 663,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14718,
+      "lon": -21.89057,
+      "distance_km": 2.5088016032348452,
+      "property_type": "apartment",
+      "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-modern-3br-ocean-view-apartment-in-reykjavik-reykjav\u00edk?search=100-43067148;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 663,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-modern-3br-ocean-view-apartment-in-reykjavik-reykjav\u00edk?search=100-43067148;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "B2 - Two Bedroom Apartment with Balcony",
+      "hotel_id": "",
+      "rating": 4.8,
+      "review_count": 222,
+      "stars": 0,
+      "price": 698,
+      "currency": "USD",
+      "address": "Reykjav\u00edk, Iceland",
+      "lat": 64.14196,
+      "lon": -21.91168,
+      "distance_km": 1.5477837651570896,
+      "property_type": "apartment",
+      "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-b2-two-bedroom-apartment-with-balcony-reykjav\u00edk?search=100-38785098;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+      "sources": [
+        {
+          "provider": "trivago",
+          "price": 698,
+          "currency": "USD",
+          "booking_url": "https://www.trivago.com/en-US/lm/entire-house-apartment-b2-two-bedroom-apartment-with-balcony-reykjav\u00edk?search=100-38785098;dr-20260815-20260822;drs-40;rc-1-2&cip=234716015",
+          "price_basis": "lead_in",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "lead_in",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "ScenicOceanview 4Free parking space 18 mins Downtown",
+      "hotel_id": "89085215",
+      "rating": 10,
+      "review_count": 1,
+      "stars": 4,
+      "price": 1113.47,
+      "currency": "USD",
+      "address": "\u00c1lftanes, Iceland",
+      "image_url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/880107460.jpg?k=27cb1268cd22324b4d086350df61f324755123f24bee33c1f46833b8e38ae9f7&o=",
+      "lat": 64.1004867553711,
+      "lon": -22.011831283569336,
+      "distance_km": 6.082559790546004,
+      "property_type": "singleroom",
+      "booking_url": "https://www.agoda.com/viking-norourljos/hotel/all/alftanes-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 1113.47,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/viking-norourljos/hotel/all/alftanes-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Reykjavik Consulate Hotel, Curio Collection by Hilton",
+      "hotel_id": "4628711",
+      "rating": 9.2,
+      "review_count": 51,
+      "stars": 4,
+      "price": 1141.23,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/3361737/0/b44c834a08b1b6357b0793e3c932a412.jpg?va=1&ce=0",
+      "lat": 64.14801788330078,
+      "lon": -21.937362670898438,
+      "distance_km": 0.3273395256465997,
+      "property_type": "hotel",
+      "booking_url": "https://www.agoda.com/reykjavik-konsulat-hotel-curio-collection-by-hilton_3/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 1141.23,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/reykjavik-konsulat-hotel-curio-collection-by-hilton_3/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "The Reykjavik EDITION",
+      "hotel_id": "28689334",
+      "rating": 8.8,
+      "review_count": 43,
+      "stars": 5,
+      "price": 1279.31,
+      "currency": "USD",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/28689334/-1/24f108b0d7b1c3125258ee8cfbf63bb0.jpg?va=1&ce=0",
+      "lat": 64.1505355834961,
+      "lon": -21.932113647460938,
+      "distance_km": 0.7052640583432135,
+      "property_type": "hotel",
+      "booking_url": "https://www.agoda.com/the-reykjavik-edition/hotel/reykjavik-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 1279.31,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/the-reykjavik-edition/hotel/reykjavik-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Nordic Retreat by the Water  Hot Tubs  Northern Lights",
+      "hotel_id": "78720515",
+      "rating": 0,
+      "review_count": 0,
+      "stars": 2,
+      "price": 2104.29,
+      "currency": "USD",
+      "address": "Gar\u00f0ab\u00e6r, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/78720515/0/cbc921697f5cc1c9fb1a6ab685800e61.jpeg?va=1&ce=2",
+      "lat": 64.07064056396484,
+      "lon": -21.909753799438477,
+      "distance_km": 8.524653514706394,
+      "property_type": "nonhotel",
+      "booking_url": "https://www.agoda.com/nordic-retreat-by-the-water-hot-tubs-northern-lights/hotel/garoabar-is.html",
+      "sources": [
+        {
+          "provider": "agoda",
+          "price": 2104.29,
+          "max_price": 2354.42,
+          "currency": "USD",
+          "booking_url": "https://www.agoda.com/nordic-retreat-by-the-water-hot-tubs-northern-lights/hotel/garoabar-is.html",
+          "price_basis": "room_nightly",
+          "price_confidence": "unverified",
+          "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+          "freshness": "live"
+        }
+      ],
+      "price_basis": "room_nightly",
+      "price_confidence": "unverified",
+      "retrieved_at": "2026-06-19T10:24:45.592788-07:00",
+      "freshness": "live"
+    },
+    {
+      "name": "Hotel Fr\u00f3n",
+      "hotel_id": "6751075",
+      "rating": 8.7,
+      "review_count": 1156,
+      "stars": 3,
+      "price": 0,
+      "currency": "",
+      "address": "Reykjavik, Iceland",
+      "image_url": "https://pix8.agoda.net/hotelImages/6751075/0/3568808695410172dddb9551a830d529.jpeg?va=1",
+      "lat": 64.14549255371094,
+      "lon": -21.9287109375,
+      "distance_km": 0.6581130087485885,
+      "property_type": "hotel",
+      "booking_url": "https://www.agoda.com/hotel-fron/hotel/reykjavik-is.html",
+      "retrieved_at": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "provider_statuses": [
+    {
+      "id": "google_hotels",
+      "name": "Google Hotels",
+      "status": "checked_hit",
+      "results": 237
+    },
+    {
+      "id": "landing",
+      "name": "Landing",
+      "status": "failed",
+      "error": "landing resolve: unexpected status 404 for https://www.hellolanding.com/s/reykjavik-iceland/apartments/furnished"
+    },
+    {
+      "id": "blueground",
+      "name": "Blueground",
+      "status": "failed",
+      "error": "blueground fetch: unexpected status 404 for https://www.theblueground.com/furnished-apartments-reykjavik-iceland"
+    },
+    {
+      "id": "anyplace",
+      "name": "Anyplace",
+      "status": "failed",
+      "error": "anyplace fetch city: unexpected status 308 for https://www.anyplace.com/_next/data/-kddcNG6f9Zsi5R-RTwDv/listings/reykjavik-iceland.json"
+    },
+    {
+      "id": "wunderflats",
+      "name": "Wunderflats",
+      "status": "failed",
+      "error": "wunderflats fetch: unexpected status 404 for https://wunderflats.com/en/furnished-apartments/reykjavik-iceland?page=0"
+    },
+    {
+      "id": "spotahome",
+      "name": "Spotahome",
+      "status": "failed",
+      "error": "spotahome fetch: unexpected status 404 for https://www.spotahome.com/s/reykjavik/for-rent:apartments.data"
+    },
+    {
+      "id": "hometogo",
+      "name": "HomeToGo",
+      "status": "failed",
+      "error": "hometogo resolve: unexpected status 404 for https://www.hometogo.com/reykjavik-iceland/"
+    },
+    {
+      "id": "flatio",
+      "name": "Flatio",
+      "status": "failed",
+      "error": "flatio fetch: unexpected status 404 for https://www.flatio.com/i/apartments-for-rent-reykjavik/monthly"
+    },
+    {
+      "id": "uniplaces",
+      "name": "Uniplaces",
+      "status": "failed",
+      "error": "uniplaces resolve: no buildId found on listing page for city \"reykjavik\""
+    },
+    {
+      "id": "agoda",
+      "name": "Agoda",
+      "status": "checked_hit",
+      "results": 18
+    },
+    {
+      "id": "trivago",
+      "name": "Trivago",
+      "status": "checked_hit",
+      "results": 25
+    },
+    {
+      "id": "housinganywhere",
+      "name": "HousingAnywhere",
+      "status": "failed",
+      "error": "Post \"https://410300212483493-dsn.algolia.net/1/indexes/*/queries\": dial tcp: lookup 410300212483493-dsn.algolia.net: no such host"
+    },
+    {
+      "id": "booking",
+      "name": "Booking.com",
+      "status": "timeout",
+      "error": "fetch booking search page: acquire aws-waf-token: cdp token harvest: context deadline exceeded"
+    }
+  ],
+  "completeness": {
+    "state": "partial",
+    "queried": 13,
+    "succeeded": 3,
+    "missing": [
+      "landing",
+      "blueground",
+      "anyplace",
+      "wunderflats",
+      "spotahome",
+      "hometogo",
+      "flatio",
+      "uniplaces",
+      "housinganywhere",
+      "booking"
+    ]
+  }
+}
